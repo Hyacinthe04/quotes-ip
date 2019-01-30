@@ -17,7 +17,10 @@ See the number of upvotes and number of downvotes for each quote
 -google chrome
 -js code
 -bootstrap
+
 # link to live site on GitHub Pages 
+https://github.com/Hyacinthe04/quotes-ip
+
 # copyright and license information
 This project is licensed under the MIT license.
 
