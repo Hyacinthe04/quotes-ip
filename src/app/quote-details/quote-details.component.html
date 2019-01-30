@@ -1,0 +1,7 @@
+<p> {{quote.narration}}</p> 
+<p>{{quote.post}}</p> 
+<p> Upvote  {{quote.upvote}}
+    Downvote {{quote.downvote}} </p>
+<button (click)='quoteComplete(true)' class="btn btn-danger"> Delete </button>
+<button (click)='quoteUpvote()' class="btn btn-success"> Upvote </button>
+<button (click)='quoteDownvote()' class="btn btn-success"> Downvote </button>
